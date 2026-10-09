@@ -1,0 +1,10 @@
+# Local tooling and temporary output
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+*.log
+
+# Site hosting identity and credentials are environment-specific
+.openai/
